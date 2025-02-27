@@ -87,6 +87,11 @@ I had to remove all missing values and zeros from the students who were absent d
 |Divine Agbor|19|sss3|Data Analysis|20|19|39|60|99|A
 
 
+   💻
+
+   😄
+
+
 
 
 
