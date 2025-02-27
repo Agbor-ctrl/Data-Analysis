@@ -64,6 +64,18 @@ Based on the just concluded analysis,I hereby recommend the following actions:
    -	There should be contact to parents of students who miss school due to reasons of some students missing exams.
    -	Students not performing so well should be enrolled on extra moral classes to aid improvement.
 
+## Limitations
+
+I had to remove all missing values and zeros from the students who were absent during exams which would have impacted the accuracy of my given result after analysis.
+
+## References
+
+ - SQL guide for beginners by werty
+ - Stack overflow
+ - Kaggle
+
+
+
 
 
 
