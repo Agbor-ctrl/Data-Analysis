@@ -4,6 +4,7 @@
 # Table of Content
 
   - [Data source](#Data-source)
+  - [References](#References)
 
 ## PROJECT OVERVIEW
 This is a Python and SQL project on an imaginary school called Graceland Academy. The analysis project objectives are aimed to analyze and give insight into the student’s overall performances in certain subjects in the year 2025. By careful analysis of the student’s data, we want to identify student performances, make recommendations to subjects needing improvement and help the school make data driven decisions.
