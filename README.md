@@ -4,8 +4,10 @@
 # Table of Content
 
    [Data source](#Data-source)
-  - [Limitations](#Limitations)
-  - [References](#References)
+   
+   [Limitations](#Limitations)
+   
+   [References](#References)
 
 ## PROJECT OVERVIEW
 This is a Python and SQL project on an imaginary school called Graceland Academy. The analysis project objectives are aimed to analyze and give insight into the student’s overall performances in certain subjects in the year 2025. By careful analysis of the student’s data, we want to identify student performances, make recommendations to subjects needing improvement and help the school make data driven decisions.
@@ -77,6 +79,12 @@ I had to remove all missing values and zeros from the students who were absent d
  - SQL guide for beginners by werty
  - Stack overflow
  - Kaggle
+
+## Tables
+
+|Student Name|Age|Class|Subjects|Test 1|Test 2|Test total|Exam score|Total|Grade|
+|------------|---|-----|--------|------|------|----------|----------|-----|-----|
+|Divine Agbor|19|sss3|Data Analysis|20|19|39|60|99|A
 
 
 
